@@ -1,0 +1,1 @@
+# argocd-helmfile-secrets-plugin
